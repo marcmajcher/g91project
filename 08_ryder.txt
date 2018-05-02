@@ -1,1 +1,1 @@
-This is Ryder Dale's sample txts file to start with git
+Until finally we decided to build the app.
